@@ -11,5 +11,6 @@ The data is provided by Alibaba Cloud Tianchi Data Competition, which includes 3
 - Collocation set data.
 
 ## Tech Stack
-- CNN
+- Custom CNN from scatch
+- Transfer learning 
 - RNN
