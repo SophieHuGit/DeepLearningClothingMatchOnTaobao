@@ -9,6 +9,7 @@ The data is provided by Alibaba Cloud Tianchi Data Competition, which includes 3
 - Basic information of the item data (text, image) 
 - User historical behavior data
 - Collocation set data.
+Reference: https://tianchi.aliyun.com/competition/entrance/231575/information
 
 ## Tech Stack
 - Custom CNN from scatch
